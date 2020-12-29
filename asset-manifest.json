@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/picture-app.git/static/css/main.a4fca6e6.chunk.css",
+    "main.js": "/picture-app.git/static/js/main.c3668172.chunk.js",
+    "main.js.map": "/picture-app.git/static/js/main.c3668172.chunk.js.map",
+    "runtime-main.js": "/picture-app.git/static/js/runtime-main.6ff7e35d.js",
+    "runtime-main.js.map": "/picture-app.git/static/js/runtime-main.6ff7e35d.js.map",
+    "static/js/2.19f5cf01.chunk.js": "/picture-app.git/static/js/2.19f5cf01.chunk.js",
+    "static/js/2.19f5cf01.chunk.js.map": "/picture-app.git/static/js/2.19f5cf01.chunk.js.map",
+    "index.html": "/picture-app.git/index.html",
+    "static/css/main.a4fca6e6.chunk.css.map": "/picture-app.git/static/css/main.a4fca6e6.chunk.css.map",
+    "static/js/2.19f5cf01.chunk.js.LICENSE.txt": "/picture-app.git/static/js/2.19f5cf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ff7e35d.js",
+    "static/js/2.19f5cf01.chunk.js",
+    "static/css/main.a4fca6e6.chunk.css",
+    "static/js/main.c3668172.chunk.js"
+  ]
+}
