@@ -14,7 +14,7 @@ class SearchBar extends React.Component {
 			<div className='ui segment'>
 				<form onSubmit={this.onFormSubmit} className='ui form'>
 					<div>
-						<div>Search Movie</div>
+						<div>Search Images</div>
 						<div className='ui fluid icon input field'>
 							<input
 								type='text'
